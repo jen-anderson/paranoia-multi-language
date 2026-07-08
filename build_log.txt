@@ -1,0 +1,5 @@
+X Error of failed request:  BadAccess (attempt to access private resource denied)
+  Major opcode of failed request:  149 (GLX)
+  Minor opcode of failed request:  26 (X_GLXMakeContextCurrent)
+  Serial number of failed request:  1096
+  Current serial number in output stream:  1096
